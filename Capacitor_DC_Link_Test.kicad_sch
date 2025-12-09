@@ -5,119 +5,6 @@
 	(uuid "a24655ea-bfcb-453f-a053-e44c86dfe571")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x01"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x01"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x01_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016)
@@ -727,6 +614,14 @@
 		(uuid "2b1d295e-cbbd-4a8f-94bd-6b72dd7f3567")
 	)
 	(no_connect
+		(at 130.81 157.48)
+		(uuid "8e5ae30e-74b3-4542-baf9-5e81245f73c1")
+	)
+	(no_connect
+		(at 130.81 167.64)
+		(uuid "a49c73af-0e6b-4dfd-a21d-e53a85b6381f")
+	)
+	(no_connect
 		(at 130.81 127)
 		(uuid "a87340b4-1feb-45a1-8b0d-ebab273d27ab")
 	)
@@ -1122,6 +1017,143 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDPWR")
+		(at 130.81 154.94 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "368643b6-9fb3-468e-8ca0-a8b481ca10c7")
+		(property "Reference" "#PWR09"
+			(at 125.73 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 127 154.8129 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 130.81 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5779869b-c566-41a0-b0bf-dfae9db09283")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 135.89 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36fb2c14-9aa8-49fe-94a3-8d7aedd75258")
+		(property "Reference" "J8"
+			(at 138.43 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 138.43 167.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Bush_My:High_IN"
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd8a9f39-04e6-42d5-bf56-debdf4c5d823")
+		)
+		(pin "2"
+			(uuid "2b1b3723-4a3d-4b22-85b8-c25f31ef577b")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VDD")
 		(at 99.06 82.55 0)
 		(unit 1)
@@ -1386,70 +1418,6 @@
 			(project "Capacitor_DC_Link_Test"
 				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 97.79 120.65 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "79620432-e54f-4436-a751-782435d23410")
-		(property "Reference" "J8"
-			(at 94.615 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 97.79 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Bush_my:Bush_5x3"
-			(at 97.79 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 97.79 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 97.79 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d308f2c4-8d08-4ad3-b442-2aaeb9e7111a")
-		)
-		(instances
-			(project "Capacitor_DC_Link_Test"
-				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
-					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -1728,6 +1696,76 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
+		(at 135.89 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4dbc1e4-6686-4353-bb03-907b7b741573")
+		(property "Reference" "J7"
+			(at 138.43 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 138.43 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Bush_My:Low_IN"
+			(at 135.89 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 135.89 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eca0d21c-d003-4009-92d8-4d5a73b5a28e")
+		)
+		(pin "2"
+			(uuid "0f0368f6-1165-4e4a-83a2-fd1deaa226df")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
 		(at 135.89 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1797,24 +1835,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 97.79 116.84 180)
+		(lib_id "power:VDD")
+		(at 130.81 165.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "bb25a7cb-cee9-4235-be51-b735039230c2")
-		(property "Reference" "J7"
-			(at 94.615 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 97.79 113.03 0)
+		(fields_autoplaced yes)
+		(uuid "b19c81c7-3c9c-4c7d-8e59-efa59f75ddb2")
+		(property "Reference" "#PWR010"
+			(at 134.62 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,8 +1853,17 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Bush_my:Bush_5x3"
-			(at 97.79 116.84 0)
+		(property "Value" "VDD"
+			(at 127 165.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 130.81 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1831,8 +1871,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 97.79 116.84 0)
+		(property "Datasheet" ""
+			(at 130.81 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1840,21 +1880,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 97.79 116.84 0)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 130.81 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "f1fee734-496a-49ad-ac11-c897488515fb")
+			(uuid "3782af8d-d018-4c77-89e2-d70417f53545")
 		)
 		(instances
 			(project "Capacitor_DC_Link_Test"
 				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
-					(reference "J7")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -1991,134 +2032,6 @@
 			(project ""
 				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 97.79 124.46 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ec3fd8cd-7d19-4c98-aff5-2a857ef4c56b")
-		(property "Reference" "J9"
-			(at 94.615 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 97.79 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Bush_my:Bush_5x3"
-			(at 97.79 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 97.79 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 97.79 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9961d216-fab2-4255-81a2-b4f3e059f697")
-		)
-		(instances
-			(project "Capacitor_DC_Link_Test"
-				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
-					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 97.79 128.27 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed0746ef-2da7-4c8e-98f8-da727fca71ea")
-		(property "Reference" "J10"
-			(at 94.615 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 97.79 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Bush_my:Bush_5x3"
-			(at 97.79 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 97.79 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 97.79 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7503a9d1-9186-4c6d-8a6c-cea258208441")
-		)
-		(instances
-			(project "Capacitor_DC_Link_Test"
-				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
-					(reference "J10")
 					(unit 1)
 				)
 			)

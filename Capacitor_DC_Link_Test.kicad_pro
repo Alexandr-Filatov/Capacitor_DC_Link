@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Capacitor_DC_Link.step",
+      "step": "../Power_Test/3D/Capacitor_DC_Link.step",
       "svg": "",
       "vrml": ""
     },
