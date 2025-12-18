@@ -699,52 +699,52 @@
 		)
 	)
 	(junction
-		(at 99.06 82.55)
+		(at 36.83 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "412d3b42-0157-4d7d-9a38-e01d901c26b0")
 	)
 	(junction
-		(at 99.06 97.79)
+		(at 36.83 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd44635d-b2e8-42c8-ad6b-e68a1c575785")
 	)
 	(no_connect
-		(at 130.81 147.32)
+		(at 68.58 96.52)
 		(uuid "0184a1ac-3959-4e0e-8063-8f736d7e22ed")
 	)
 	(no_connect
-		(at 130.81 106.68)
+		(at 68.58 55.88)
 		(uuid "075e7a10-06e0-4980-a909-5970d0278a94")
 	)
 	(no_connect
-		(at 130.81 96.52)
+		(at 68.58 45.72)
 		(uuid "07cd5fb5-cb1d-42ab-8264-293d704c5115")
 	)
 	(no_connect
-		(at 130.81 137.16)
+		(at 68.58 86.36)
 		(uuid "2b1d295e-cbbd-4a8f-94bd-6b72dd7f3567")
 	)
 	(no_connect
-		(at 130.81 157.48)
+		(at 68.58 106.68)
 		(uuid "8e5ae30e-74b3-4542-baf9-5e81245f73c1")
 	)
 	(no_connect
-		(at 130.81 167.64)
+		(at 68.58 116.84)
 		(uuid "a49c73af-0e6b-4dfd-a21d-e53a85b6381f")
 	)
 	(no_connect
-		(at 130.81 127)
+		(at 68.58 76.2)
 		(uuid "a87340b4-1feb-45a1-8b0d-ebab273d27ab")
 	)
 	(no_connect
-		(at 130.81 116.84)
+		(at 68.58 66.04)
 		(uuid "b247f951-018f-4f8f-9d16-1ed9707694db")
 	)
 	(wire
 		(pts
-			(xy 93.98 97.79) (xy 99.06 97.79)
+			(xy 31.75 46.99) (xy 36.83 46.99)
 		)
 		(stroke
 			(width 0)
@@ -754,7 +754,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 97.79) (xy 104.14 97.79)
+			(xy 36.83 46.99) (xy 41.91 46.99)
 		)
 		(stroke
 			(width 0)
@@ -764,7 +764,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 82.55) (xy 104.14 82.55)
+			(xy 36.83 31.75) (xy 41.91 31.75)
 		)
 		(stroke
 			(width 0)
@@ -774,7 +774,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 82.55) (xy 99.06 82.55)
+			(xy 31.75 31.75) (xy 36.83 31.75)
 		)
 		(stroke
 			(width 0)
@@ -784,7 +784,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 104.14 86.36 0)
+		(at 41.91 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -793,7 +793,7 @@
 		(fields_autoplaced yes)
 		(uuid "07ac48a3-497b-4025-814b-cf1ca3ff7f49")
 		(property "Reference" "C3"
-			(at 107.95 85.0899 0)
+			(at 45.72 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -802,7 +802,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 107.95 87.6299 0)
+			(at 45.72 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -811,7 +811,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_my:Capacitor_22x36.5x31.5"
-			(at 105.1052 90.17 0)
+			(at 42.8752 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -820,7 +820,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 86.36 0)
+			(at 41.91 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -829,7 +829,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 104.14 86.36 0)
+			(at 41.91 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -854,7 +854,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 93.98 0)
+		(at 73.66 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -863,7 +863,7 @@
 		(fields_autoplaced yes)
 		(uuid "09dea9e5-610d-4bd5-9e92-6bf5be047aac")
 		(property "Reference" "J1"
-			(at 138.43 93.9799 0)
+			(at 76.2 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -872,7 +872,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 96.5199 0)
+			(at 76.2 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -881,7 +881,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Low_IN"
-			(at 135.89 93.98 0)
+			(at 73.66 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -890,7 +890,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 93.98 0)
+			(at 73.66 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -899,7 +899,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 93.98 0)
+			(at 73.66 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -924,7 +924,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 124.46 0)
+		(at 73.66 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -933,7 +933,7 @@
 		(fields_autoplaced yes)
 		(uuid "14399571-f6ce-409c-93f7-d16441746007")
 		(property "Reference" "J4"
-			(at 138.43 124.4599 0)
+			(at 76.2 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -942,7 +942,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 126.9999 0)
+			(at 76.2 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -951,7 +951,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:High_IN"
-			(at 135.89 124.46 0)
+			(at 73.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -960,7 +960,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 124.46 0)
+			(at 73.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -969,7 +969,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 124.46 0)
+			(at 73.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -993,8 +993,75 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDPWR")
+		(at 146.05 132.08 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1f05eae7-d6d9-4efb-99a0-0e11ccce105e")
+		(property "Reference" "#PWR018"
+			(at 140.97 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 142.24 131.9529 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 146.05 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b5f68e2e-6ab7-4505-a423-d152e76c93f8")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 135.89 182.88 0)
+		(at 73.66 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1003,7 +1070,7 @@
 		(fields_autoplaced yes)
 		(uuid "2cc14b11-8dde-4458-ba5d-f04dedc219ad")
 		(property "Reference" "J10"
-			(at 138.43 181.61 0)
+			(at 76.2 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1012,7 +1079,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 138.43 184.15 0)
+			(at 76.2 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1021,7 +1088,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Bush_5x3"
-			(at 135.89 182.88 0)
+			(at 73.66 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1030,7 +1097,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 182.88 0)
+			(at 73.66 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1039,7 +1106,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 182.88 0)
+			(at 73.66 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1061,7 +1128,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 93.98 93.98 0)
+		(at 31.75 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1070,7 +1137,7 @@
 		(fields_autoplaced yes)
 		(uuid "2ed50017-d86c-4e21-9b34-85bf870e9097")
 		(property "Reference" "C2"
-			(at 97.79 92.7099 0)
+			(at 35.56 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1079,7 +1146,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 97.79 95.2499 0)
+			(at 35.56 44.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1088,7 +1155,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_my:Capacitor_22x36.5x31.5"
-			(at 94.9452 97.79 0)
+			(at 32.7152 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1097,7 +1164,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 93.98 0)
+			(at 31.75 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1106,7 +1173,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 93.98 93.98 0)
+			(at 31.75 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1131,7 +1198,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 130.81 104.14 90)
+		(at 68.58 53.34 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1140,7 +1207,7 @@
 		(fields_autoplaced yes)
 		(uuid "3008a266-b172-43a9-ab77-5047687ff7f9")
 		(property "Reference" "#PWR04"
-			(at 134.62 104.14 0)
+			(at 72.39 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1149,7 +1216,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 127 104.1399 90)
+			(at 64.77 53.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1158,7 +1225,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 104.14 0)
+			(at 68.58 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1167,7 +1234,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 104.14 0)
+			(at 68.58 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1176,7 +1243,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 130.81 104.14 0)
+			(at 68.58 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1198,7 +1265,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 130.81 154.94 270)
+		(at 68.58 104.14 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1207,7 +1274,7 @@
 		(fields_autoplaced yes)
 		(uuid "368643b6-9fb3-468e-8ca0-a8b481ca10c7")
 		(property "Reference" "#PWR09"
-			(at 125.73 154.94 0)
+			(at 63.5 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1216,7 +1283,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 127 154.8129 90)
+			(at 64.77 104.0129 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1225,7 +1292,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 154.94 0)
+			(at 67.31 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1234,7 +1301,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 154.94 0)
+			(at 67.31 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1243,7 +1310,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 130.81 154.94 0)
+			(at 68.58 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1265,7 +1332,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 165.1 0)
+		(at 73.66 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1274,7 +1341,7 @@
 		(fields_autoplaced yes)
 		(uuid "36fb2c14-9aa8-49fe-94a3-8d7aedd75258")
 		(property "Reference" "J8"
-			(at 138.43 165.0999 0)
+			(at 76.2 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1283,7 +1350,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 167.6399 0)
+			(at 76.2 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1292,7 +1359,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:High_IN"
-			(at 135.89 165.1 0)
+			(at 73.66 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1301,7 +1368,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 165.1 0)
+			(at 73.66 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1310,7 +1377,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 165.1 0)
+			(at 73.66 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1335,7 +1402,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 99.06 82.55 0)
+		(at 36.83 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1344,7 +1411,7 @@
 		(fields_autoplaced yes)
 		(uuid "42482eef-80c1-4d94-ab73-037ceb86874a")
 		(property "Reference" "#PWR08"
-			(at 99.06 86.36 0)
+			(at 36.83 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1353,7 +1420,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 99.06 77.47 0)
+			(at 36.83 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1361,7 +1428,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 82.55 0)
+			(at 36.83 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1370,7 +1437,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 82.55 0)
+			(at 36.83 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1379,7 +1446,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 99.06 82.55 0)
+			(at 36.83 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1400,17 +1467,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 104.14 93.98 0)
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 151.13 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "50122192-2c66-403d-b69a-75de0471d90c")
-		(property "Reference" "C4"
-			(at 107.95 92.7099 0)
+		(uuid "4b88c1a8-e4e4-4f78-a1f2-a4787ad8c5fd")
+		(property "Reference" "J16"
+			(at 153.67 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1418,8 +1485,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 107.95 95.2499 0)
+		(property "Value" "Conn_01x01"
+			(at 153.67 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1427,8 +1494,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_my:Capacitor_22x36.5x31.5"
-			(at 105.1052 97.79 0)
+		(property "Footprint" "Bush_My:Bush_5x3"
+			(at 151.13 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1437,7 +1504,74 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 93.98 0)
+			(at 151.13 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 151.13 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "025f12a0-33b3-4433-9bb6-abc127da47c5")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 41.91 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50122192-2c66-403d-b69a-75de0471d90c")
+		(property "Reference" "C4"
+			(at 45.72 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 45.72 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_my:Capacitor_22x36.5x31.5"
+			(at 42.8752 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.91 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1446,7 +1580,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 104.14 93.98 0)
+			(at 41.91 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1470,8 +1604,75 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VDD")
+		(at 146.05 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50c5ae2e-dd3a-42cf-a5b3-d4ced1f7e747")
+		(property "Reference" "#PWR017"
+			(at 149.86 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD"
+			(at 142.24 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 146.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ea4734d-e9f1-4938-94ac-009f488b88b2")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 135.89 175.26 0)
+		(at 73.66 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1480,7 +1681,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ac50f34-2d63-4a2d-8b82-58cf7ae7edc9")
 		(property "Reference" "J9"
-			(at 138.43 173.99 0)
+			(at 76.2 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1489,7 +1690,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 138.43 176.53 0)
+			(at 76.2 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1498,7 +1699,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Bush_5x3"
-			(at 135.89 175.26 0)
+			(at 73.66 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1507,7 +1708,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 175.26 0)
+			(at 73.66 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1516,7 +1717,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 175.26 0)
+			(at 73.66 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1538,7 +1739,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 130.81 114.3 270)
+		(at 68.58 63.5 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1547,7 +1748,7 @@
 		(fields_autoplaced yes)
 		(uuid "74877fa9-1cfd-4c99-9018-3e1f56d7ba95")
 		(property "Reference" "#PWR03"
-			(at 125.73 114.3 0)
+			(at 63.5 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1556,7 +1757,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 127 114.1729 90)
+			(at 64.77 63.3729 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1565,7 +1766,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 114.3 0)
+			(at 67.31 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1574,7 +1775,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 114.3 0)
+			(at 67.31 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1583,7 +1784,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 130.81 114.3 0)
+			(at 68.58 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1605,7 +1806,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 130.81 124.46 90)
+		(at 68.58 73.66 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1614,7 +1815,7 @@
 		(fields_autoplaced yes)
 		(uuid "7534345a-657d-4091-8903-97bda620b5d7")
 		(property "Reference" "#PWR05"
-			(at 134.62 124.46 0)
+			(at 72.39 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1623,7 +1824,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 127 124.4599 90)
+			(at 64.77 73.6599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1632,7 +1833,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 124.46 0)
+			(at 68.58 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1641,7 +1842,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 124.46 0)
+			(at 68.58 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1650,7 +1851,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 130.81 124.46 0)
+			(at 68.58 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1672,7 +1873,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 130.81 175.26 90)
+		(at 68.58 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1681,7 +1882,7 @@
 		(fields_autoplaced yes)
 		(uuid "92efe921-3d71-4f85-82b2-ab1dcec83efa")
 		(property "Reference" "#PWR011"
-			(at 134.62 175.26 0)
+			(at 72.39 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1690,7 +1891,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 127 175.2599 90)
+			(at 64.77 124.4599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1699,7 +1900,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 175.26 0)
+			(at 68.58 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1708,7 +1909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 175.26 0)
+			(at 68.58 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1717,7 +1918,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 130.81 175.26 0)
+			(at 68.58 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1739,7 +1940,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 130.81 93.98 270)
+		(at 68.58 43.18 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1748,7 +1949,7 @@
 		(fields_autoplaced yes)
 		(uuid "93a9c241-2a74-42c8-b38f-3c1c1424988b")
 		(property "Reference" "#PWR01"
-			(at 125.73 93.98 0)
+			(at 63.5 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1757,7 +1958,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 127 93.8529 90)
+			(at 64.77 43.0529 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1766,7 +1967,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 93.98 0)
+			(at 67.31 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1775,7 +1976,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 93.98 0)
+			(at 67.31 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1784,7 +1985,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 130.81 93.98 0)
+			(at 68.58 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1806,7 +2007,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 130.81 182.88 270)
+		(at 68.58 132.08 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1815,7 +2016,7 @@
 		(fields_autoplaced yes)
 		(uuid "951ba136-d1df-4c94-b238-3fd306f62b46")
 		(property "Reference" "#PWR012"
-			(at 125.73 182.88 0)
+			(at 63.5 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1824,7 +2025,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 127 182.7529 90)
+			(at 64.77 131.9529 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1833,7 +2034,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 182.88 0)
+			(at 67.31 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1842,7 +2043,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 182.88 0)
+			(at 67.31 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1851,7 +2052,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 130.81 182.88 0)
+			(at 68.58 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1873,7 +2074,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 130.81 144.78 90)
+		(at 68.58 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1882,7 +2083,7 @@
 		(fields_autoplaced yes)
 		(uuid "95f4bb47-1203-4320-b16d-30adcee70d37")
 		(property "Reference" "#PWR06"
-			(at 134.62 144.78 0)
+			(at 72.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1891,7 +2092,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 127 144.7799 90)
+			(at 64.77 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +2101,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 144.78 0)
+			(at 68.58 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1909,7 +2110,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 144.78 0)
+			(at 68.58 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1918,7 +2119,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 130.81 144.78 0)
+			(at 68.58 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1940,7 +2141,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 130.81 134.62 270)
+		(at 68.58 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1949,7 +2150,7 @@
 		(fields_autoplaced yes)
 		(uuid "a16e41bb-3c13-485d-a61a-12d38493fef1")
 		(property "Reference" "#PWR02"
-			(at 125.73 134.62 0)
+			(at 63.5 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1958,7 +2159,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 127 134.4929 90)
+			(at 64.77 83.6929 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1967,7 +2168,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 134.62 0)
+			(at 67.31 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1976,7 +2177,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 134.62 0)
+			(at 67.31 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1985,7 +2186,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 130.81 134.62 0)
+			(at 68.58 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2007,7 +2208,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 134.62 0)
+		(at 73.66 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2016,7 +2217,7 @@
 		(fields_autoplaced yes)
 		(uuid "a47da539-1423-46a0-ae67-28cc13a5b79c")
 		(property "Reference" "J5"
-			(at 138.43 134.6199 0)
+			(at 76.2 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2025,7 +2226,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 137.1599 0)
+			(at 76.2 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2034,7 +2235,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Low_IN"
-			(at 135.89 134.62 0)
+			(at 73.66 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2043,7 +2244,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 134.62 0)
+			(at 73.66 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2052,7 +2253,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 134.62 0)
+			(at 73.66 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2077,7 +2278,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 154.94 0)
+		(at 73.66 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2086,7 +2287,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4dbc1e4-6686-4353-bb03-907b7b741573")
 		(property "Reference" "J7"
-			(at 138.43 154.9399 0)
+			(at 76.2 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2095,7 +2296,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 157.4799 0)
+			(at 76.2 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2104,7 +2305,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Low_IN"
-			(at 135.89 154.94 0)
+			(at 73.66 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2113,7 +2314,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 154.94 0)
+			(at 73.66 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2122,7 +2323,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 154.94 0)
+			(at 73.66 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2147,7 +2348,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 144.78 0)
+		(at 73.66 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2156,7 +2357,7 @@
 		(fields_autoplaced yes)
 		(uuid "a544f883-e059-47d9-96b5-c7c2a2dcef56")
 		(property "Reference" "J6"
-			(at 138.43 144.7799 0)
+			(at 76.2 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2165,7 +2366,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 147.3199 0)
+			(at 76.2 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2174,7 +2375,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:High_IN"
-			(at 135.89 144.78 0)
+			(at 73.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2183,7 +2384,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 144.78 0)
+			(at 73.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2192,7 +2393,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 144.78 0)
+			(at 73.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2217,7 +2418,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 161.29 175.26 0)
+		(at 99.06 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2226,7 +2427,7 @@
 		(fields_autoplaced yes)
 		(uuid "aae3ff3b-5bcb-4cae-8a04-a14f86722239")
 		(property "Reference" "J11"
-			(at 163.83 173.99 0)
+			(at 101.6 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2235,7 +2436,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 163.83 176.53 0)
+			(at 101.6 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2244,7 +2445,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Bush_5x3"
-			(at 161.29 175.26 0)
+			(at 99.06 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2253,7 +2454,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 175.26 0)
+			(at 99.06 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2262,7 +2463,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 161.29 175.26 0)
+			(at 99.06 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2284,7 +2485,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 130.81 165.1 90)
+		(at 68.58 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2293,7 +2494,7 @@
 		(fields_autoplaced yes)
 		(uuid "b19c81c7-3c9c-4c7d-8e59-efa59f75ddb2")
 		(property "Reference" "#PWR010"
-			(at 134.62 165.1 0)
+			(at 72.39 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2302,7 +2503,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 127 165.0999 90)
+			(at 64.77 114.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2311,7 +2512,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 165.1 0)
+			(at 68.58 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2320,7 +2521,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 165.1 0)
+			(at 68.58 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2329,7 +2530,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 130.81 165.1 0)
+			(at 68.58 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2350,8 +2551,75 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDPWR")
+		(at 120.65 132.08 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4f78bb0-652c-4db3-8896-b78cf8a0e0cf")
+		(property "Reference" "#PWR016"
+			(at 115.57 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 116.84 131.9529 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 120.65 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe510090-3dbb-4ada-9e86-58bcca831e2f")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 161.29 182.88 0)
+		(at 99.06 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2360,7 +2628,7 @@
 		(fields_autoplaced yes)
 		(uuid "c02a81b3-da18-4840-809d-5610c9a86ea6")
 		(property "Reference" "J12"
-			(at 163.83 181.61 0)
+			(at 101.6 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2369,7 +2637,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 163.83 184.15 0)
+			(at 101.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2378,7 +2646,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Bush_5x3"
-			(at 161.29 182.88 0)
+			(at 99.06 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2387,7 +2655,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 182.88 0)
+			(at 99.06 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2664,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 161.29 182.88 0)
+			(at 99.06 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2418,7 +2686,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 156.21 182.88 270)
+		(at 93.98 132.08 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2427,7 +2695,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9b709f4-375e-4f7f-b7d8-6d333d4ce8a8")
 		(property "Reference" "#PWR014"
-			(at 151.13 182.88 0)
+			(at 88.9 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2436,7 +2704,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 152.4 182.7529 90)
+			(at 90.17 131.9529 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2445,7 +2713,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 182.88 0)
+			(at 92.71 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2454,7 +2722,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 182.88 0)
+			(at 92.71 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2463,7 +2731,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 156.21 182.88 0)
+			(at 93.98 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2484,8 +2752,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 125.73 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d3c20725-10c3-4da3-8519-6eb63231b17f")
+		(property "Reference" "J13"
+			(at 128.27 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 128.27 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Bush_My:Bush_5x3"
+			(at 125.73 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 125.73 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "062d3e32-a9ed-45aa-b3e8-ca8a6bd7cb95")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VDD")
-		(at 156.21 175.26 90)
+		(at 93.98 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2494,7 +2829,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4e152f2-1a49-428e-ae53-7d48b4d2c71c")
 		(property "Reference" "#PWR013"
-			(at 160.02 175.26 0)
+			(at 97.79 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2503,7 +2838,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 152.4 175.2599 90)
+			(at 90.17 124.4599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2512,7 +2847,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 175.26 0)
+			(at 93.98 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2521,7 +2856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 175.26 0)
+			(at 93.98 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2530,7 +2865,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 156.21 175.26 0)
+			(at 93.98 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2551,17 +2886,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDPWR")
-		(at 99.06 97.79 0)
+		(lib_id "power:VDD")
+		(at 120.65 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "daf37878-fd23-4192-b3b0-68d97643d46a")
-		(property "Reference" "#PWR07"
-			(at 99.06 102.87 0)
+		(uuid "d846f9a0-a062-43d6-a7c1-f5e919d1611b")
+		(property "Reference" "#PWR015"
+			(at 124.46 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2569,16 +2904,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDPWR"
-			(at 98.933 101.6 0)
+		(property "Value" "VDD"
+			(at 116.84 124.4599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 99.06 0)
+			(at 120.65 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2587,7 +2923,140 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 99.06 0)
+			(at 120.65 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 120.65 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a902d107-6c38-4b2a-aad8-86b3a900c2d8")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 151.13 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d896ac2c-d57b-4f9e-848a-3ec3a9f24eb0")
+		(property "Reference" "J15"
+			(at 153.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 153.67 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Bush_My:Bush_5x3"
+			(at 151.13 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 151.13 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "043f10fb-3aed-4e1c-ba80-ba3980908f01")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 36.83 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "daf37878-fd23-4192-b3b0-68d97643d46a")
+		(property "Reference" "#PWR07"
+			(at 36.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 36.703 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2596,7 +3065,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 99.06 97.79 0)
+			(at 36.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2617,17 +3086,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 93.98 86.36 0)
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 125.73 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e54d82cc-f3f7-4b07-b307-fe75a71c0790")
-		(property "Reference" "C1"
-			(at 97.79 85.0899 0)
+		(uuid "dc00e802-ae40-46bd-8149-5e081fe303db")
+		(property "Reference" "J14"
+			(at 128.27 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,8 +3104,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 97.79 87.6299 0)
+		(property "Value" "Conn_01x01"
+			(at 128.27 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2644,8 +3113,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_my:Capacitor_22x36.5x31.5"
-			(at 94.9452 90.17 0)
+		(property "Footprint" "Bush_My:Bush_5x3"
+			(at 125.73 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2654,7 +3123,74 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 86.36 0)
+			(at 125.73 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 125.73 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7453e73e-100a-4454-bdc6-cc86cd518d39")
+		)
+		(instances
+			(project "Capacitor_DC_Link_Test"
+				(path "/a24655ea-bfcb-453f-a053-e44c86dfe571"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 31.75 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e54d82cc-f3f7-4b07-b307-fe75a71c0790")
+		(property "Reference" "C1"
+			(at 35.56 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 35.56 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_my:Capacitor_22x36.5x31.5"
+			(at 32.7152 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2663,7 +3199,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 93.98 86.36 0)
+			(at 31.75 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2688,7 +3224,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 114.3 0)
+		(at 73.66 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2697,7 +3233,7 @@
 		(fields_autoplaced yes)
 		(uuid "eff87095-083c-4683-8b77-3c7e2da49a98")
 		(property "Reference" "J3"
-			(at 138.43 114.2999 0)
+			(at 76.2 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2706,7 +3242,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 116.8399 0)
+			(at 76.2 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2715,7 +3251,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:Low_IN"
-			(at 135.89 114.3 0)
+			(at 73.66 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2724,7 +3260,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 114.3 0)
+			(at 73.66 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2733,7 +3269,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 114.3 0)
+			(at 73.66 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2758,7 +3294,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 135.89 104.14 0)
+		(at 73.66 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2767,7 +3303,7 @@
 		(fields_autoplaced yes)
 		(uuid "fdf8a504-4901-476e-8bca-74cc53d4cae0")
 		(property "Reference" "J2"
-			(at 138.43 104.1399 0)
+			(at 76.2 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2776,7 +3312,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 138.43 106.6799 0)
+			(at 76.2 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2785,7 +3321,7 @@
 			)
 		)
 		(property "Footprint" "Bush_My:High_IN"
-			(at 135.89 104.14 0)
+			(at 73.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2794,7 +3330,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 104.14 0)
+			(at 73.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2803,7 +3339,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 104.14 0)
+			(at 73.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
