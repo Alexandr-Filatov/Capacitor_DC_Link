@@ -475,7 +475,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "560f9a79-f1cc-434d-84e2-e2d73d9ac156")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -488,7 +488,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "82ca89a0-6c20-472e-b5db-f02e672538a7")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -501,7 +501,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "857ffe9d-b355-430f-b377-6a7079d670d7")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -514,7 +514,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "1a7e3c61-9f39-40ec-9ec9-d199a24e026f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -527,7 +527,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "aca1ad26-08ac-4045-a4a8-5b276f65db0c")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -540,7 +540,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "e9aad584-4fc3-4c8f-bb0e-00a5c58b8f93")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -553,7 +553,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "26c0bb4d-27e7-4dfb-9c49-ed9bc04df805")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -566,7 +566,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "5c0b2b76-0de9-427a-beb2-848004dd66ee")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -579,7 +579,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "3a20c3a2-a60d-4a3c-bc85-2b2565a90e6f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -592,7 +592,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "78d95ade-3ad6-4479-87eb-57a8e5555859")
+			(uuid "27b4cb10-b5a1-458c-828b-111f4dac9f83")
 		)
 		(embedded_fonts no)
 	)
@@ -1116,7 +1116,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "23e4374b-a9fd-431a-838a-3ca718635910")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -1129,7 +1129,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "521c1a1a-3ad3-4209-ac58-c1a0ef3065d1")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -1142,7 +1142,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "f61e8e9b-68ac-447f-9f8d-ad7c8aba0a9e")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -1155,7 +1155,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "e8be0a3c-b0e9-49f9-b068-6c442b62db8b")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -1168,7 +1168,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "2b55af2a-8023-4aba-987b-3e4b07d7fbfc")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -1181,7 +1181,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "5173baf0-5c62-4843-80e4-8e092509a65f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -1194,7 +1194,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "e28e876e-f2dd-42b6-baf9-e1100f0aed76")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -1207,7 +1207,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "b4294cea-a7a0-42b0-a88c-db7b15e51e50")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -1220,7 +1220,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "91eb2cdb-84a9-468b-ba08-81452c1fc3cd")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -1233,7 +1233,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "66d66ab8-5aa8-410c-8808-d5b3ea240190")
+			(uuid "5c20f83a-479f-4b44-becd-61ef649917f8")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D/Bus_copper_VDD_v1.stp"
@@ -1516,7 +1516,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "694a26bd-1228-46d3-acdc-4d41bf90fda6")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -1529,7 +1529,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "e574097d-544f-4c5f-9eae-70a59c816f40")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -1542,7 +1542,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "8f9d7e9a-71b0-4c71-b9a4-60a909124398")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -1555,7 +1555,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "6b782ff0-07c1-45ad-a04b-dfbd1424238f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -1568,7 +1568,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "5fd9dff9-d785-4177-9af1-c628ef8801d8")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -1581,7 +1581,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "9cc2318e-dc57-4508-81b9-de20fff7b203")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -1594,7 +1594,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "98bb8b14-365a-4d50-9496-603bc9cf8470")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -1607,7 +1607,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "ad52b14b-7fca-418d-ad85-0e8406d096fb")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -1620,7 +1620,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "81e2b293-1fa2-4303-8549-a3e7cbf7ccf9")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -1633,7 +1633,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9b96b025-56d6-41bf-94ba-37c54157867d")
+			(uuid "897d57b7-6a92-4f56-807f-74a59c82004c")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D/Bus_copper_GND_v1.stp"
@@ -1744,7 +1744,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "8daf3a2f-2c09-4a80-a295-116723837186")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -1757,7 +1757,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "e47dcda6-4d93-4cdc-9c1b-aac1e2c61cef")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -1770,7 +1770,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "fa9f7710-93c9-48db-8462-cb6d8fcead97")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -1783,7 +1783,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "dcd56c35-dfab-406c-97aa-7bd0bb011205")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -1796,7 +1796,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "16240d7a-a0cd-4f76-8877-8baa7832850f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -1809,7 +1809,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "7b2ba7e8-68e8-4e5e-a10b-9e7148e50c92")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -1822,7 +1822,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "11cf496d-69b9-482a-b9f6-95a68d3ec01d")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -1835,7 +1835,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "154d2b58-63c5-40ba-aede-823fc9765a42")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -1848,7 +1848,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "0166e532-d84a-462f-8a28-e8904799f091")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -1861,7 +1861,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a4460509-ee86-4af7-9cb0-8be1ccb8904c")
+			(uuid "a46295ff-6961-4dda-a2b8-cd10c0ec3de0")
 		)
 		(embedded_fonts no)
 	)
@@ -2047,7 +2047,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "f655f2c5-2ef6-4470-9c87-70b025087c48")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -2060,7 +2060,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "a68a55bb-6bc3-47c5-8a95-c79ad68da5e6")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -2073,7 +2073,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "1140a610-21e8-4d71-8ed3-f5d642ae3b8f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -2086,7 +2086,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "f09e8888-6c66-41a3-8ef3-44d16e37e9f9")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -2099,7 +2099,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "8b5cb16e-d310-470e-97ce-4021dd0f2819")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -2112,7 +2112,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "50e829aa-612b-4d97-9292-fa8c44bd481f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -2125,7 +2125,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "77fa6357-3741-4b00-9240-744775b18442")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -2138,7 +2138,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "782516ed-a318-4f1e-a6af-6e7c9c0d3979")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -2151,7 +2151,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "ab92fb70-ee76-4349-840f-d9d4fbac866e")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -2164,7 +2164,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a3f730f2-026a-4aaa-ad9a-a967cd96a80e")
+			(uuid "182a08f7-86a1-4ba7-a2e5-57d518f8bf08")
 		)
 		(embedded_fonts no)
 	)
@@ -2429,7 +2429,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "eba53e7d-1ae3-4fcd-98a9-b1bd5a60af16")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -2442,7 +2442,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "dac23dc0-855a-40e7-84ef-79a9eceb6083")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -2455,7 +2455,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "1dfce914-8b98-41b6-b0b8-a602c8b13c1e")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -2468,7 +2468,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "4ed93c05-b57b-432f-b6b2-19e991f04694")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -2481,7 +2481,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "8066021f-10ee-4bb7-8a55-03092899dd25")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -2494,7 +2494,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "266886c4-a68b-47d1-837d-1864619e0b57")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -2507,7 +2507,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "ee937f08-99dd-40ee-9fdc-4ef0d0346836")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -2520,7 +2520,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "40dd834b-0683-492b-960b-366472c5e637")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -2533,7 +2533,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "68b2eef5-daf9-4853-ac65-948efd4f555b")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -2546,7 +2546,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5aea26a3-c19d-4c64-a487-e0cf0bdf72dd")
+			(uuid "0b4ecb26-ac3f-4f48-a3a6-c78a7e7ca04e")
 		)
 		(embedded_fonts no)
 	)
@@ -2646,7 +2646,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "4bd5f4e1-8dce-4fc2-a9a5-9edc4c833937")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -2659,7 +2659,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "6bf119ed-c318-4490-9dbe-f27222dbc775")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -2672,7 +2672,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "fb8f379b-57ef-44fe-a605-945a938b87cd")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -2685,7 +2685,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "65bff56a-7c85-4b2a-8008-7514222e0489")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -2698,7 +2698,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "358d7059-6616-4a45-bd83-53389efa3e0e")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -2711,7 +2711,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "c51053e8-d8d7-4d5f-9421-ccfb81a3d12d")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -2724,7 +2724,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "2960ace8-c27a-446d-a35b-5de2951e2104")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -2737,7 +2737,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "69a368e9-f89b-472a-9d38-f174d7f3cccd")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -2750,7 +2750,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "3b5d1941-47d5-4f61-9d09-2e3ea1a6a73f")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -2763,7 +2763,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24200e7-8dc2-4545-8027-ba6955ca5592")
+			(uuid "9b969a38-facf-44a8-9874-5b936a74700f")
 		)
 		(embedded_fonts no)
 	)
@@ -2950,7 +2950,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "79201f40-686a-4971-ae8c-9ffa3d8f5de6")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -1)
@@ -2963,7 +2963,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "a9b13514-7b41-4186-bcba-3fe9203b0bac")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.75)
@@ -2976,7 +2976,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "4494757a-5879-474c-9c99-08edc247b7b0")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 -0.5)
@@ -2989,7 +2989,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "8dbe5182-599c-49b4-9a72-42ce5b23000c")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
@@ -3002,7 +3002,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "9e9c81f2-0a59-41b3-af01-5a7d6dcd0504")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.5)
@@ -3015,7 +3015,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "10ab91ed-6595-420e-9f56-1ceff4d49c79")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0.75)
@@ -3028,7 +3028,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "46642f99-764f-491e-bbb1-5a375c755772")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1)
@@ -3041,7 +3041,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "89bf8d9a-36f3-45c5-a3de-1db7211be463")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.25)
@@ -3054,7 +3054,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "b674e35f-a689-420b-b8f3-7609cd74e3cc")
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 1.5)
@@ -3067,7 +3067,7 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c43269e4-14bb-4988-a0c3-1e6142aea2bf")
+			(uuid "3496f781-0d65-4690-9ad1-b61de547fc3c")
 		)
 		(embedded_fonts no)
 	)
